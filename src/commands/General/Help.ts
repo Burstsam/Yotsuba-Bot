@@ -45,10 +45,10 @@ export default class Command extends BaseCommand {
             let text = `
 ╭─「(づ￣ 3￣)づ」
 │⋊ 𝕌𝕤𝕖𝕣: *${M.sender.username}*
-│⋊ ℕ𝕒𝕞𝕖: Yᴏᴛsᴜʙᴀ
+│⋊ ℕ𝕒𝕞𝕖: Mikey-Kun
 │⋊ ℙ𝕣𝕖𝕗𝕚𝕩: ${this.client.config.prefix}
 │⋊ 𝕆𝕨𝕟𝕖𝕣: *${this.client.config.prefix}mod*
-│⋊ 𝕆𝕗𝕗𝕚𝕔𝕚𝕒𝕝 𝔾𝕣𝕠𝕦𝕡: http://gg.gg/Piku-and-yotsuba-support
+│⋊ Contact Support : https://chat.whatsapp.com/GNOBSwjT2c73qdAvcIRFjk
 ╰────────────┈平和                            \n\n`
             const keys = Object.keys(categories)
             for (const key of keys)
@@ -62,8 +62,8 @@ export default class Command extends BaseCommand {
             caption: `${text} 
  ──❅┈[ 𝒀𝒐𝒕𝒔𝒖𝒃𝒂 𝑩𝒐𝒕 ]┈❅───
 ┌────────────┈❅
-│   🧨 YᴏᴛsUʙᴀ
-│   ©️ ՏYᑎTᕼᗴՏIᘔᗴᗪ IᑎᖴIᑎITY
+│   🧨 Mikey-Kun
+│   ©️ Anime Maniax
 └────────────┈⁂
 ❅┈[𝐇𝐚𝐯𝐞 𝐆𝐫𝐞𝐚𝐭 𝐃𝐚𝐲]┈❅
 🎗 *Note: Use ${this.client.config.prefix}help <command_name> to view the command info*` }
